@@ -1,0 +1,1 @@
+export const PLINKO_ADDRESS = "0x2b2676cc194c28d98f6d5a63bc65b91287b9dc3c";

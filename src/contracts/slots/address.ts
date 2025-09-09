@@ -1,0 +1,1 @@
+export const SLOT_ADDRESS = "0x9879cf6cc4553c67edbb0e4ac0a21d6e60fd79f6";

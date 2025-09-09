@@ -1,0 +1,35 @@
+.moa-footer{
+  position: relative;
+  width: 100%;
+  background: #ffffff;
+  color: #666;
+  padding: 24px;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+
+.moa-footer__content{
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.moa-footer__left{
+  font-size: 14px;
+}
+
+.moa-footer__right{
+  display: flex;
+  gap: 16px;
+}
+
+.moa-footer__right a{
+  color: #666;
+  text-decoration: none;
+}
+
+.moa-footer__right a:hover{
+  color: #000;
+}
+
