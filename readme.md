@@ -62,3 +62,7 @@ The application will be available at `http://localhost:5173` (or the port shown 
 - **Encrypted Storage**: All wallet private keys are encrypted using AES-GCM
 - **Password Protection**: Access to wallets requires your master password
 - **Private Key Export**: Securely export private keys when needed
+
+### Jackpot verification
+
+- Each transaction hash need to be "verified". For now it's barely working since I had no opportunities to test it when 100k+ volume was hit. You can still click on "Force Check" and test each tx once we reach jackpot moment.
