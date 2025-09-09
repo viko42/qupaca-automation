@@ -4,6 +4,8 @@
 
 A React-based web application for automating casino operations on the Qupaca platform. This tool allows you to create and manage multiple game wallets, automate betting transactions, and track your gaming activity.
 
+![Qupaca Casino Automation Tool Screenshot](https://github.com/viko42/qupaca-automation/blob/main/screenshot.png?raw=true)
+
 ## Prerequisites
 
 - Node.js (version 16 or higher)
