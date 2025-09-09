@@ -6,6 +6,8 @@ A React-based web application for automating casino operations on the Qupaca pla
 
 ![Qupaca Casino Automation Tool Screenshot](https://github.com/viko42/qupaca-automation/blob/main/screenshot.png?raw=true)
 
+![Qupaca Casino Automation Tool Screenshot](https://github.com/viko42/qupaca-automation/blob/main/screenshot2.png?raw=true)
+
 ## Prerequisites
 
 - Node.js (version 16 or higher)
